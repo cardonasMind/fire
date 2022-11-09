@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1695" height="66" viewBox="0 0 1695 66">
+  <defs>
+    <filter id="Ellipse_2" x="1517" y="0" width="66" height="66" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_4" x="1461" y="0" width="66" height="66" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3" x="1629" y="0" width="66" height="66" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1" x="1573" y="0" width="66" height="66" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="menu" transform="translate(-120 -18)">
+    <g id="logo">
+      <text id="Fixxo." transform="translate(120 63)" fill="#222529" font-size="35" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Fixxo.</tspan></text>
+    </g>
+    <text id="Home_Categories_Products_Contacts" data-name="Home       Categories       Products       Contacts" transform="translate(755 56)" fill="#222529" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0" xml:space="preserve">Home       Categories       Products       </tspan><tspan y="0" fill="#ff7373">Contacts</tspan></text>
+    <g id="icon">
+      <g id="Group_437" data-name="Group 437">
+        <g transform="matrix(1, 0, 0, 1, 120, 18)" filter="url(#Ellipse_2)">
+          <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="18" cy="18" r="18" transform="translate(1532 15)" fill="#fff"/>
+        </g>
+        <g id="git-compare-outline" transform="translate(1660.75 41.875)">
+          <path id="Path_1" data-name="Path 1" d="M10.688,5.625l-2.25-2.25,2.25-2.25" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.125"/>
+          <path id="Path_2" data-name="Path 2" d="M7.277,12.375l2.25,2.25-2.25,2.25" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.125"/>
+          <path id="Path_3" data-name="Path 3" d="M5.625,3.375a1.688,1.688,0,1,1-3.375,0,1.688,1.688,0,0,1,3.375,0Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.125"/>
+          <path id="Path_4" data-name="Path 4" d="M15.75,14.625a1.688,1.688,0,1,1-1.688-1.647,1.688,1.688,0,0,1,1.688,1.647Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.125"/>
+          <path id="Path_5" data-name="Path 5" d="M9,3.375h2.953a2.109,2.109,0,0,1,2.109,2.109v7.453" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.125"/>
+          <path id="Path_6" data-name="Path 6" d="M8.965,14.625H6.012A2.109,2.109,0,0,1,3.9,12.516V5.063" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.125"/>
+        </g>
+      </g>
+      <g id="Group_436" data-name="Group 436">
+        <g transform="matrix(1, 0, 0, 1, 120, 18)" filter="url(#Ellipse_4)">
+          <circle id="Ellipse_4-2" data-name="Ellipse 4" cx="18" cy="18" r="18" transform="translate(1476 15)" fill="#fff"/>
+        </g>
+        <g id="search" transform="translate(1604.004 42.852)">
+          <path id="Path_7" data-name="Path 7" d="M13.739,10.825a6.007,6.007,0,1,0-1.059,1.058l.032.034L15.893,15.1a.75.75,0,0,0,1.061-1.061l-3.182-3.181-.034-.032ZM12.182,3.962a4.5,4.5,0,1,1-6.364,0,4.5,4.5,0,0,1,6.364,0Z" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <g id="Group_439" data-name="Group 439">
+        <g transform="matrix(1, 0, 0, 1, 120, 18)" filter="url(#Ellipse_3)">
+          <circle id="Ellipse_3-2" data-name="Ellipse 3" cx="18" cy="18" r="18" transform="translate(1644 15)" fill="#fff"/>
+        </g>
+        <path id="shopping-bag-line" d="M12.5,6V4.525a3.5,3.5,0,1,0-7,0v3.5a.5.5,0,0,0,1,0V7h4V6h-4V4.525a2.5,2.5,0,0,1,5,0V8a.5.5,0,0,0,1,0V7H15v9H3V7H4.5V6H2V16.045A.955.955,0,0,0,2.955,17h12.09A.955.955,0,0,0,16,16.045V6Z" transform="translate(1773 41.975)"/>
+        <circle id="Ellipse_7" data-name="Ellipse 7" cx="8" cy="8" r="8" transform="translate(1787 30)" fill="#ff7373"/>
+        <text id="_3" data-name="3" transform="translate(1792 42)" fill="#fff" font-size="11" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">3</tspan></text>
+      </g>
+      <g id="Group_438" data-name="Group 438">
+        <g transform="matrix(1, 0, 0, 1, 120, 18)" filter="url(#Ellipse_1)">
+          <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="18" cy="18" r="18" transform="translate(1588 15)" fill="#fff"/>
+        </g>
+        <path id="heart" d="M15.93,2.778a4.5,4.5,0,0,0-6.366,0l-.545.552-.541-.551,0,0a4.5,4.5,0,0,0-6.364,0l-.243.243a4.5,4.5,0,0,0,0,6.364L8.279,15.8,9,16.554l.017-.017.019.019.678-.716,6.456-6.455a4.505,4.505,0,0,0,0-6.364Zm-.553,5.811L9.02,14.947,2.663,8.589a3.375,3.375,0,0,1,0-4.773l.243-.243a3.375,3.375,0,0,1,4.771,0L9.016,4.935l1.346-1.362a3.375,3.375,0,0,1,4.773,0l.243.243a3.379,3.379,0,0,1,0,4.773Z" transform="translate(1717.451 42.541)"/>
+        <circle id="Ellipse_9" data-name="Ellipse 9" cx="8" cy="8" r="8" transform="translate(1731 30)" fill="#ff7373"/>
+        <text id="_1" data-name="1" transform="translate(1737 42)" fill="#fff" font-size="11" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">1</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

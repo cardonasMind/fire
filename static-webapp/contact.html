@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Tutorial">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Page</title>
+    <script src="https://kit.fontawesome.com/41c8b474e2.js" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+    <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+    <script defer src="javascript/script.js"></script>
+    <link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="_navbar container">
+        <div class="_logo">Fixxo.</div>
+
+        <div class="_nav-links">
+            <a href="index.html">Home</a>
+            <a href="#">Categories</a>
+            <a href="#">Products</a>
+            <a  class="_active" href="contact.html">Contacts</a>
+        </div>
+
+        <div class="_nav-icon-links"> 
+            <a href="#" class="_white-circle">
+
+                <i class="fa-regular fa-magnifying-glass"></i>
+            </a>
+            <a href="#" class="_white-circle">
+                <i class="fa-regular fa-repeat"></i>
+            </a>
+            <a href="#" class="_white-circle">
+                <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-theme">1</span>
+                <i class="fa-regular fa-heart"></i>
+            </a>
+            <a href="#" class="_white-circle">
+                <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-theme">3</span>
+                <i class="fa-regular fa-bag-shopping"></i>
+            </a>
+        </div>
+    </nav>
+
+    <section class="breadcrumb">
+        <div class="container">
+            <ul class="breadcrumb-list">
+                <li><a href="index.html">Home</a></li>
+                <li>Contacts</li>
+            </ul>
+        </div>
+    </section>
+
+    <section>
+        <iframe class="google-map" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d19118.6858893877!2d-75.69947401939275!3d4.81253004715882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sco!4v1666053989486!5m2!1sen!2sco" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </section>
+
+    <section class="contact-form">
+        <div class="container">
+            <h2>Come in contact with us</h2>
+            <form onsubmit="onSubmit(event)" novalidate>
+                <div>
+                    <input id="name" type="text" class="form-control" onkeyup="validate(event)" placeholder="Your full name" required data-required-min="2">
+                    <div id="name-error" class="text-danger"></div>
+                </div>
+                <div>
+                    <input id="email" type="email" class="form-control" onkeyup="validate(event)" placeholder="Your e-mail" required>
+                    <div id="email-error" class="text-danger"></div>
+                </div>
+                <div textarea>
+                    <textarea id="comment" class="text" onkeyup="validate(event)" placeholder="Comments" required></textarea>
+                    <div id="password-error" class="text-danger"></div>
+                </div>
+                <div>
+                    <button type="submit" class="-btn-theme">
+                        <span class="corner-topleft"></span>
+                        <span class="corner-bottomright"></span>
+                        POST COMMENT
+                    </button>
+                </div>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <div class="socialmedia">
+            <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+            <a href="#"><i class="fa-brands fa-google"></i></a>
+            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+        </div>
+        <p>© 2022 Fixxo. All Rights Reserved</p>
+    </footer>
+
+
+</body>
+</html>

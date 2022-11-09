@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1395" height="670" viewBox="0 0 1395 670">
+  <defs>
+    <filter id="_2_FOR_USD_49" x="813.5" y="243.5" width="339" height="78" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_2_FOR_USD_49-2" data-name="2 FOR USD $49" transform="translate(-405 -4075)">
+    <g id="_01" data-name="01">
+      <g id="bg" transform="translate(0 -75)">
+        <rect id="bg-2" data-name="bg" width="255" height="210" transform="translate(405 4150)" fill="#f5f5f5"/>
+      </g>
+      <g id="text" transform="translate(0 -75)">
+        <text id="Modern_Black_Blouse" data-name="Modern Black Blouse" transform="translate(405 4410)" fill="#23262a" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.1em"><tspan x="0" y="0">Modern Black Blouse</tspan></text>
+        <text id="Category" transform="translate(405 4384)" fill="#616365" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.1em"><tspan x="0" y="0">Category</tspan></text>
+        <text id="_49" data-name="$49" transform="translate(405 4467)" fill="#23262a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.1em"><tspan x="0" y="0">$49</tspan></text>
+        <g id="Group_76" data-name="Group 76" transform="translate(-570 1879)">
+          <path id="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(975 2542.194)" fill="#ff7373"/>
+          <path id="star-2" data-name="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(1021 2542.194)" fill="#ff7373"/>
+          <path id="star-3" data-name="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(998 2542.194)" fill="#ff7373"/>
+          <path id="star-4" data-name="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(1044 2542.194)" fill="#ff7373"/>
+          <path id="star-5" data-name="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(1067 2542.194)" fill="#ff7373"/>
+        </g>
+      </g>
+    </g>
+    <g id="_03" data-name="03">
+      <g id="bg-3" data-name="bg" transform="translate(0 -75)">
+        <rect id="bg-4" data-name="bg" width="255" height="210" transform="translate(405 4497)" fill="#f5f5f5"/>
+      </g>
+      <g id="text-2" data-name="text" transform="translate(0 -75)">
+        <text id="Modern_Black_Blouse-2" data-name="Modern Black Blouse" transform="translate(405 4757)" fill="#23262a" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.1em"><tspan x="0" y="0">Modern Black Blouse</tspan></text>
+        <text id="Category-2" data-name="Category" transform="translate(405 4731)" fill="#616365" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.1em"><tspan x="0" y="0">Category</tspan></text>
+        <text id="_49-2" data-name="$49" transform="translate(405 4814)" fill="#23262a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.1em"><tspan x="0" y="0">$49</tspan></text>
+        <g id="Group_77" data-name="Group 77" transform="translate(-570 2226)">
+          <path id="star-6" data-name="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(975 2542.194)" fill="#ff7373"/>
+          <path id="star-7" data-name="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(1021 2542.194)" fill="#ff7373"/>
+          <path id="star-8" data-name="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(998 2542.194)" fill="#ff7373"/>
+          <path id="star-9" data-name="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(1044 2542.194)" fill="#ff7373"/>
+          <path id="star-10" data-name="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(1067 2542.194)" fill="#ff7373"/>
+        </g>
+      </g>
+    </g>
+    <g id="_02" data-name="02">
+      <g id="bg-5" data-name="bg" transform="translate(0 -75)">
+        <rect id="bg-6" data-name="bg" width="255" height="210" transform="translate(690 4150)" fill="#f5f5f5"/>
+      </g>
+      <g id="text-3" data-name="text" transform="translate(0 -75)">
+        <text id="Modern_Black_Blouse-3" data-name="Modern Black Blouse" transform="translate(690 4410)" fill="#23262a" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.1em"><tspan x="0" y="0">Modern Black Blouse</tspan></text>
+        <text id="Category-3" data-name="Category" transform="translate(690 4384)" fill="#616365" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.1em"><tspan x="0" y="0">Category</tspan></text>
+        <text id="_49-3" data-name="$49" transform="translate(690 4466)" fill="#23262a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.1em"><tspan x="0" y="0">$49</tspan></text>
+        <g id="Group_75" data-name="Group 75" transform="translate(-570 1879)">
+          <path id="star-11" data-name="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(1260 2542.194)" fill="#ff7373"/>
+          <path id="star-12" data-name="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(1306 2542.194)" fill="#ff7373"/>
+          <path id="star-13" data-name="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(1283 2542.194)" fill="#ff7373"/>
+          <path id="star-14" data-name="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(1329 2542.194)" fill="#ff7373"/>
+          <path id="star-15" data-name="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(1352 2542.194)" fill="#ff7373"/>
+        </g>
+      </g>
+    </g>
+    <g id="_04" data-name="04">
+      <g id="bg-7" data-name="bg" transform="translate(0 -75)">
+        <rect id="bg-8" data-name="bg" width="255" height="210" transform="translate(690 4497)" fill="#f5f5f5"/>
+      </g>
+      <g id="text-4" data-name="text" transform="translate(0 -75)">
+        <text id="Modern_Black_Blouse-4" data-name="Modern Black Blouse" transform="translate(690 4757)" fill="#23262a" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.1em"><tspan x="0" y="0">Modern Black Blouse</tspan></text>
+        <text id="Category-4" data-name="Category" transform="translate(690 4731)" fill="#616365" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.1em"><tspan x="0" y="0">Category</tspan></text>
+        <text id="_49-4" data-name="$49" transform="translate(690 4813)" fill="#23262a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.1em"><tspan x="0" y="0">$49</tspan></text>
+        <g id="Group_74" data-name="Group 74" transform="translate(-570 2226)">
+          <path id="star-16" data-name="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(1260 2542.194)" fill="#ff7373"/>
+          <path id="star-17" data-name="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(1306 2542.194)" fill="#ff7373"/>
+          <path id="star-18" data-name="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(1283 2542.194)" fill="#ff7373"/>
+          <path id="star-19" data-name="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(1329 2542.194)" fill="#ff7373"/>
+          <path id="star-20" data-name="star" d="M14.421,18,8.911,13.96,3.3,17.851l2.14-6.488L0,7.224l6.832.03L9.088.806,11.17,7.312,18,7.466l-5.545,3.991Z" transform="translate(1352 2542.194)" fill="#ff7373"/>
+        </g>
+      </g>
+    </g>
+    <g id="_2_FOR_USD_49-3" data-name="2 FOR USD $49">
+      <rect id="bg-9" data-name="bg" width="825" height="664" transform="translate(975 4075)" fill="#bbb"/>
+      <g id="btn" transform="translate(257 1693)">
+        <g id="bg-10" data-name="bg">
+          <rect id="bg-11" data-name="bg" width="186" height="60" transform="translate(1038 2720)" fill="#fff"/>
+          <path id="Union_1" data-name="Union 1" d="M1847,59h-18V57h18V39h2V59Z" transform="translate(-635 2711)" fill="#222529"/>
+          <path id="Union_2" data-name="Union 2" d="M1847,59h-18V57h18V39h2V59Z" transform="translate(2897 2789) rotate(180)" fill="#222529"/>
+        </g>
+        <text id="FLASE_SALE" data-name="FLASE SALE" transform="translate(1088 2756)" fill="#222529" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">FLASE SALE</tspan></text>
+      </g>
+      <g id="text-5" data-name="text">
+        <g transform="matrix(1, 0, 0, 1, 405, 4075)" filter="url(#_2_FOR_USD_49)">
+          <text id="_2_FOR_USD_49-4" data-name="2 FOR USD $49" transform="translate(983 298)" fill="#fff" font-size="45" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-161.752" y="0">2 FOR USD $49</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

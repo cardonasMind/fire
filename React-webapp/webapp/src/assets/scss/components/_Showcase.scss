@@ -1,0 +1,28 @@
+.hero {
+    background: linear-gradient(90deg, rgba(230,230,230,1) 0%, rgba(245,245,245,1) 100%);
+
+    .row {
+        background: linear-gradient(90deg, rgba(230,230,230,1) 0%, rgba(245,245,245,1) 100%);
+
+        h1 {
+            color: red;
+        }
+        p {
+            color: red;
+        }
+
+        .col {
+            
+            .hero-img {
+            width: 10%;
+            }
+        }
+ 
+    }
+
+    
+
+
+}
+
+

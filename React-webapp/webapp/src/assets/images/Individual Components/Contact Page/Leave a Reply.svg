@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1110" height="349" viewBox="0 0 1110 349">
+  <g id="Leave_a_Reply" data-name="Leave a Reply" transform="translate(-405 -1955)">
+    <g id="text" transform="translate(405 1955)">
+      <text id="Come_in_Contact_with_Us" data-name="Come in Contact with Us" transform="translate(0 19)" fill="#222529" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="0">Come in Contact with Us</tspan></text>
+    </g>
+    <g id="Your_Name" data-name="Your Name" transform="translate(405 2004)">
+      <g id="Rectangle_223" data-name="Rectangle 223" fill="#fff" stroke="rgba(112,112,112,0.4)" stroke-width="1">
+        <rect width="538" height="50" stroke="none"/>
+        <rect x="0.5" y="0.5" width="537" height="49" fill="none"/>
+      </g>
+      <text id="Your_Name-2" data-name="Your Name" transform="translate(20 31)" fill="#616365" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Your Name</tspan></text>
+    </g>
+    <g id="Comments" transform="translate(405 2084)">
+      <g id="Rectangle_225" data-name="Rectangle 225" fill="#fff" stroke="rgba(112,112,112,0.4)" stroke-width="1">
+        <rect width="1110" height="140" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1109" height="139" fill="none"/>
+      </g>
+      <text id="Comments-2" data-name="Comments" transform="translate(20 32)" fill="#616365" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Comments</tspan></text>
+    </g>
+    <g id="Your_Mail" data-name="Your Mail" transform="translate(973.916 2004)">
+      <g id="Rectangle_224" data-name="Rectangle 224" transform="translate(0.084)" fill="#fff" stroke="rgba(112,112,112,0.4)" stroke-width="1">
+        <rect width="541" height="50" stroke="none"/>
+        <rect x="0.5" y="0.5" width="540" height="49" fill="none"/>
+      </g>
+      <text id="Your_Mail-2" data-name="Your Mail" transform="translate(25.084 31)" fill="#616365" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Your Mail</tspan></text>
+    </g>
+    <g id="btn" transform="translate(405 2254)">
+      <rect id="bg" width="207" height="50" fill="#ff7373"/>
+      <text id="Post_Comments" data-name="Post Comments" transform="translate(39 31)" fill="#fff" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Post Comments</tspan></text>
+    </g>
+  </g>
+</svg>
